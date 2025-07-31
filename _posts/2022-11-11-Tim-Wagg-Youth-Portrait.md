@@ -5,8 +5,6 @@ date: 2022-11-11 00:31:00 +0800
 categories: [Film, Music]
 tags: [film, music, composition]
 ---
-
-# Tim Wagg: Youth Portrait
 ## Short Film / Art Installation
 
 #### Date: 2022
