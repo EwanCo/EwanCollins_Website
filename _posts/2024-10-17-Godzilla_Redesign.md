@@ -15,5 +15,6 @@ These mics are very useful for ultrasonic recording, without the expense of a Sa
   <iframe class="video" src="https://www.youtube.com/embed/v3RzfYv4hV8?si=n2hBsVG05ok37fOM" frameborder="0" allowfullscreen></iframe>
 </div>
 <sub> Sorry about the visualiser, Toho would block it otherwise!</sub>
+
 I used this video recently as a demo in my composition workshop talk about sound design and the composition of non-musical sounds. Sound design is a topic many composition students don't seem to consider until they see some examples and realise how awesome it is. This clip was designed to show that.
 {: .text-justify}
