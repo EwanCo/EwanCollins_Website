@@ -1,7 +1,7 @@
 ---
 title: Red Mole - A Romance
 author: 
-date: 2024-02-07 11:31:00 +1200
+date: 2023-12-17 11:31:00 +1200
 categories: [Film, Music]
 tags: [film, music, composition, mixing, post production, audio restoration]
 ---
