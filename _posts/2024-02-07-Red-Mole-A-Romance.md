@@ -6,10 +6,9 @@ categories: [Film, Music]
 tags: [film, music, composition, mixing, post production, audio restoration]
 ---
 
-## Feature Film
+Feature Film, 2023.
 
-#### Date: 2023
-#### Roles: Composer; Music Production and Recording; Audio Restoration; Post Production Audio
+On this film I worked in the roles of: Composer; Music Production and Recording; Audio Restoration; Post Production Audio 
 
 ![Group Photo](assets/RedMole/RedMole_Image_1.jpeg)
 <sub> Group Photo of Red Mole in New York </sub>

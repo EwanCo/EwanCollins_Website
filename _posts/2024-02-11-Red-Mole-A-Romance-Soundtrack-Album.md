@@ -6,7 +6,7 @@ categories: [Film, Music]
 tags: [film, music, composition, audio restoration]
 ---
 
-# Out Now!
+<h1>Out Now!</h1>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7qWNjosLoWhUpc1DdEfMvC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 The soundtrack for Red Mole: A Romance is available now on streaming.

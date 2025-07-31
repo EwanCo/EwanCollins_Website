@@ -5,11 +5,9 @@ date: 2022-11-11 00:31:00 +0800
 categories: [Film, Music]
 tags: [film, music, composition]
 ---
-## Short Film / Art Installation
+This Short Film / Art Installation was setup at Auckland Art Gallery, Toi o Tāmaki in 2022.
 
-#### Date: 2022
-#### Location: Auckland Art Gallery, Toi o Tāmaki
-#### Roles: Music Composition and Production; Dialogue Editor; Post Production Audio
+On this project I worked in the roles of: Music Composition and Production; Dialogue Editor; Post Production Audio
 
 This 2022 short film was commissioned for the Chartwell Show – Walls to Live Beside, Rooms to Own.
 The film centres on Jadyn Dixon, a young real estate agent, and his ideas on work, life, business, and the professional philosophy that guides his life.
