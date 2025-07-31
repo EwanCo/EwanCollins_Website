@@ -8,6 +8,7 @@ tags: [creature, sfx, sound design]
 
 Sound creation and re-design for Shin Godzilla (2016).
 The source sound for the roar is a teacup being rubbed, recorded ultrasonically with a sonorous objects s.104
+
 These mics are very useful for ultrasonic recording, without the expense of a Sanken CO-100K. Very useful for field recording, as you can be less precious with a cheaper and lighter microphone.
 {: .text-justify}
 

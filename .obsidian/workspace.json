@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "f24b6c884a0d5653",
+    "type": "split",
+    "children": [
+      {
+        "id": "92d55e8bdfae53e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e04c1ab512842f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-10-17-Godzilla_Redesign.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-17-Godzilla_Redesign"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c356a48f5e9ae8a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "17b2f5f78e554bfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59174c3eeaded351",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8cc3ee6dc28dfca6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "94a5cf76a6839220",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9e3e21a91832dbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "767f54be9d109c67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c95858d2e6bd9183",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-10-17-Godzilla_Redesign.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-10-17-Godzilla_Redesign"
+            }
+          },
+          {
+            "id": "9ba249b70b597045",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-10-17-Godzilla_Redesign.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-10-17-Godzilla_Redesign"
+            }
+          },
+          {
+            "id": "ba1e02a9dca45a5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1c7273d43107afd7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-10-17-Godzilla_Redesign.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-17-Godzilla_Redesign"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e04c1ab512842f9d",
+  "lastOpenFiles": [
+    "_posts/2025-04-05-SurroundSoundSimplified.md",
+    "_posts/2022-11-11-Tim-Wagg-Youth-Portrait.md"
+  ]
+}
