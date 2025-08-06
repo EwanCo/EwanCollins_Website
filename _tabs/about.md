@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 3
 ---
 
 The sounds of film, games, and the world have always captured my attention, and so it is no surprise the worlds of sound design, music, mixing, and audio post production caught my eye (or ears).
@@ -14,3 +14,5 @@ I hold a Master's Degree in Music Composition with First Class Honours, where I 
 ​
 
 I believe sound is one of the most evocative modes of communication. Whether it is to tell a new story, or enhance the stories of others, sound is my way of sharing and contributing to storytelling.
+
+<p><a href="/PortfolioCV.html">View my Portfolio and CV</a></p>
